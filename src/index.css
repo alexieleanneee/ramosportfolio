@@ -10,7 +10,11 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+code  {
+  font-family: 'Cambria', serif;
 }
+
+html {
+  scroll-behavior: smooth;
+}
+
